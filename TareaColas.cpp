@@ -147,9 +147,9 @@ int main()
     pasty.mostrarCola();
     pasty.invert(pasty);
     pasty.mostrarCola();
-    pasty.promedioF();
-    nuevaCola(pasty,MultiploPromedio);
-MultiploPromedio.mostrarCola();
+   // pasty.promedioF();
+  //  nuevaCola(pasty,MultiploPromedio);
+//MultiploPromedio.mostrarCola();
 
     return 0;
 }
